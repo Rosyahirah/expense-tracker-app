@@ -16,3 +16,5 @@ An expense tracker app for Flutter project.
 <img width="223" alt="Screenshot 2024-05-17 123407" src="https://github.com/Rosyahirah/expense-tracker-app/assets/114573464/aeadbf47-cc47-4482-8758-8a6a1e39c293">
 
 <img width="224" alt="Screenshot 2024-05-17 123601" src="https://github.com/Rosyahirah/expense-tracker-app/assets/114573464/4409b8be-6186-4c6a-8596-4a2979a0fd92">
+
+## Dependencies and Packages
